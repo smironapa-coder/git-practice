@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Привет, {name}! Добро пожаловать в Git Practice."
+    return f"Здравствуйте, {name}! Добро пожаловать в проект Git Practice."
 
 
 def project_purpose():
